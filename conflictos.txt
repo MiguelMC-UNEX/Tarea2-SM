@@ -1,1 +1,2 @@
 soy el archivo para probar los conflictos
+Nueva línea
